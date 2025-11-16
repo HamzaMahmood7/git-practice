@@ -1,0 +1,3 @@
+name: Hamza
+age: 25;
+favourite colour: Black
